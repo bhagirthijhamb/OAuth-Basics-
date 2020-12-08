@@ -7,5 +7,8 @@ module.exports = {
   },
   mongoDB: {
     dbURI: 'mongodb+srv://bhagirthi:bhagirthi123@cluster0.rphoz.mongodb.net/OAuth-Basics?retryWrites=true&w=majority'
+  },
+  session: {
+    cookieKey: 'fullstackisfun'
   }
 }
